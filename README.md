@@ -30,7 +30,7 @@ The design showcases a **complete end-to-end user experience**, including onboar
 
 
 ## 🔗 Prototype in Figma  
-👉 [Click here to view the prototype in Figma](https://www.figma.com/proto/Qg6i02gR3EoV5MEAeYw6JZ/UI-%5C-UX-Projects?page-id=225%3A22&node-id=746-1881&viewport=-786%2C-1469%2C0.16&t=S4iVQK2rjroysVwa-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=964%3A6043)
+👉 [Click here to view the prototype](https://www.figma.com/proto/Qg6i02gR3EoV5MEAeYw6JZ/UI-%5C-UX-Projects?page-id=225%3A22&node-id=746-1881&viewport=-786%2C-1469%2C0.16&t=S4iVQK2rjroysVwa-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=964%3A6043)
 
 ---
 
