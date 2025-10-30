@@ -30,7 +30,8 @@ https://www.figma.com/proto/Qg6i02gR3EoV5MEAeYw6JZ/UI-%5C-UX-Projects?page-id=22
 
 
 
-# 👶 Keiki – Babysitting App (UI/UX Design in Figma)
+# KEIKI-APP-DESIGN
+👶 Keiki – Babysitting App (UI/UX Design in Figma)
 
 Figma design for a babysitting app connecting parents and sitters.  
 📱 **Keiki – Babysitting App** is a modern and friendly UI/UX design created in Figma, focusing on trust, care, and simplicity for both parents and sitters.
@@ -65,15 +66,4 @@ Figma design for a babysitting app connecting parents and sitters.
 - **Components** – Buttons, cards, inputs, and icon sets  
 - **Color System** – Soft and calm pastel tones for user comfort  
 
----
 
-## 👨‍🎨 Designer
-
-**Shahjahan Vempalli**  
-UI/UX Designer & Full Stack Developer  
-📍 Bangalore, India  
-🔗 [GitHub Profile](https://github.com/yourusername)
-
----
-
-⭐ *If you like this project, don’t forget to give it a star!*
