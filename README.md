@@ -1,2 +1,3 @@
 # KEIKI-APP-DESIGN
-Modern babysitting app UI designed in Figma for parents and sitters.
+👶 Keiki – Babysitting App (UI/UX Design in Figma)
+Figma design for a babysitting app connecting parents and sitters.  
