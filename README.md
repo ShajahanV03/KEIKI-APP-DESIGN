@@ -49,16 +49,16 @@ The design showcases a complete end-to-end user experience, including onboarding
 
 🛠 Tools Used
 
-- > Figma – UI/UX Design, Prototyping & Interactive Flows
+- Figma – UI/UX Design, Prototyping & Interactive Flows
 
-Components & Variants – Reusable UI elements for consistency
+- Components & Variants – Reusable UI elements for consistency
 
-Design System – Defined color palette, typography, and spacing rules
+- Design System – Defined color palette, typography, and spacing rules
 
-Typography – Consistent font hierarchy and readability standards
+- Typography – Consistent font hierarchy and readability standards
 
-Prototyping – Interactive navigation between screens
+- Prototyping – Interactive navigation between screens
 
-Iconography – Custom icons designed for clarity and minimalism
+- Iconography – Custom icons designed for clarity and minimalism
 
-Color Psychology – Calm, trustworthy tones (#B08EFF) for user comfort
+- Color Psychology – Calm, trustworthy tones (#B08EFF) for user comfort
