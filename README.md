@@ -8,10 +8,14 @@ KEIKI-APP-DESIGN
 Keiki is a modern babysitting platform designed in Figma, focusing on creating a smooth and friendly experience for both parents and sitters.
 The app emphasizes trust, safety, and simplicity through a warm visual design and intuitive user flow.
 
+---
+
 📌 Project Overview
 
 Keiki connects parents looking for reliable childcare with trusted sitters.
 The design showcases a complete end-to-end user experience, including onboarding, prompts, profiles, and main app screens for both user roles.
+
+---
 
 🎨 Design Details & 🧩 Key Features
 
@@ -29,13 +33,19 @@ The design showcases a complete end-to-end user experience, including onboarding
 
 🌙 Soft & Friendly UI – Gentle purple theme #B08EFF to convey calmness and trust
 
+---
+
 🔗 Prototype in Figma
 
 👉 Click here to view the prototype
 
+---
+
 🔗 View in Figma
 
 👉 Click here to view all screens in Figma
+
+---
 
 🛠 Tools Used
 
